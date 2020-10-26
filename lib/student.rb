@@ -42,7 +42,7 @@ class Student
       
       SQL
       
-    DB = 
+    DB[:conn].execute 
     
   end 
   
