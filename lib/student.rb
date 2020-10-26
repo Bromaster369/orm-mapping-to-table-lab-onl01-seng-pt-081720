@@ -22,6 +22,7 @@ class Student
         )
         SQL
   
+    DB[:conn]
   end 
   
 end
