@@ -38,7 +38,10 @@ class Student
     
     sql = <<-SQL
     
-      INSERT 
+      INSERT INTO students ()
+      
+      SQL
+      
     
     
   end 
