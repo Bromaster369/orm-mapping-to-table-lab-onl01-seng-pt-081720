@@ -42,7 +42,7 @@ class Student
       
       SQL
       
-    @id = 
+    DB = 
     
   end 
   
